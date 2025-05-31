@@ -1,7 +1,7 @@
 # 🎯 Marco Antonio Mayor Gamba
 
 ## 📞 Información de Contacto
-- **📱 Teléfono:** 318 505 4318
+- **📱 Teléfono:** (+57) 318 5054318
 - **📧 Email:** marcoantoniomayor@gmail.com
 
 ## 👨‍💻 Perfil Profesional
