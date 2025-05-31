@@ -1,20 +1,20 @@
-# Marco Antonio Mayor Gamba
+# 🎯 Marco Antonio Mayor Gamba
 
-## Información de Contacto
-- **Teléfono:** 318 505 4318
-- **Email:** marcoantoniomayor@gmail.com
+## 📞 Información de Contacto
+- **📱 Teléfono:** 318 505 4318
+- **📧 Email:** marcoantoniomayor@gmail.com
 
-## Perfil Profesional
+## 👨‍💻 Perfil Profesional
 Soy una persona de integridad, con actitud de servicio, disciplinado, con habilidades de autogestión, autodidacta, desempeño interdisciplinario, responsable, creativo y facilidad para trabajar en equipo. Cuento con más de 15 años de experiencia en desarrollo de aplicaciones Web basadas en buenas prácticas, 10 de ellos usando los gestores de contenidos Drupal y WordPress.
 
-## Habilidades Técnicas
+## 🛠️ Habilidades Técnicas
 
-### Lenguajes
+### 💻 Lenguajes
 - PHP
 - JavaScript
 - Python
 
-### Frameworks y CMS
+### 🔧 Frameworks y CMS
 - Drupal (6-10)
 - WordPress
 - WooCommerce
@@ -22,19 +22,17 @@ Soy una persona de integridad, con actitud de servicio, disciplinado, con habili
 - Composer
 - CI/CD
 
-## Experiencia Laboral
+## 💼 Experiencia Laboral
 
-### Senior Developer Backend
+### 🏢 Senior Developer Backend
 **Developer Hub Novopayment, Bogotá** | Agosto 2020 - Marzo 2025
-- Rediseño del portal Developer Hub con Drupal 10
+- Rediseño completo del portal en Drupal 10
 - Integración con API Management Apigee
-- Integración con Swagger y Elements para documentación de API con estándar OpenAPI
-- Portal multilingüe
-- Implementación de módulos personalizados
-- Implementación de tema personalizado
-- Procesamiento ETL automatizado de más de 500K registros semanales usando Python (Pandas/Numpy) para alimentar dashboards PowerBI
+- Documentación de APIs con Swagger y OpenAPI
+- Portal multilingüe (Español/Inglés)
+- Implementación de módulos personalizados para gestión de documentación
 
-### Backend Developer - Líder Técnico
+### 🏢 Backend Developer - Líder Técnico
 **Secretaría General - Alcaldía de Bogotá** | Agosto 2020 - Noviembre 2017
 - Implementación desde cero del nuevo portal bogota.gov.co en Drupal 8
 - Creación y desarrollo de historias de usuario
@@ -45,7 +43,7 @@ Soy una persona de integridad, con actitud de servicio, disciplinado, con habili
   - 2019 Webaward for Outstanding Achievement
   - 2019 Gold dotCOMM Awards
 
-### Analista de Desarrollo Web
+### 🏢 Analista de Desarrollo Web
 **EL PAIS S.A., Cali** | Octubre 2017 - Noviembre 2015
 - Implementación, soporte y administración del portal informativo ElPais.com.co
 - Versión anterior del portal en Drupal 6 (2016)
@@ -56,7 +54,7 @@ Soy una persona de integridad, con actitud de servicio, disciplinado, con habili
   - Caliseve.com
 - Renovación del Backend de Administración de la edición digital del periódico
 
-### Analista de Desarrollo Web
+### 🏢 Analista de Desarrollo Web
 **Logicalsoft SAS, Cali** | Octubre 2015 - Octubre 2011
 - Desarrollo y soporte del software hotelero Asiste.co especializado en Eventos
 - Implementación del software en otros países
@@ -64,24 +62,31 @@ Soy una persona de integridad, con actitud de servicio, disciplinado, con habili
 - Desarrollo de software de mesa de ayuda integrado con otros sistemas de la empresa
 - Seguimiento de casos por el personal de soporte Asiste
 
-### Desarrollador Backend
+### 🏢 Desarrollador Backend
 **Plataforma Colombia, Cali** | Octubre 2011 - Septiembre 2010
 - Desarrollo in-house en PHP
 - Administración de Usuarios del Directorio Activo
 - Soporte técnico (help desk)
 
-## Educación
+## 📚 Educación
 
-### Ingeniería de Sistemas
+### 🎓 Ingeniería de Sistemas
 **Institución Universitaria Antonio José Camacho, Cali** | 2018
 
-### Curso de Profundización en Ingeniería de Software
+### 📖 Curso de Profundización en Ingeniería de Software
 **Institución Universitaria Antonio José Camacho, Cali** | 2016
 
-### Tecnología en Sistemas
+### 📖 Tecnología en Sistemas
 **Institución Universitaria Antonio José Camacho, Cali** | 2010
 
-## Proyectos Destacados
+## 🌟 Proyectos Destacados
+
+### [Developer Hub NovoPayment](https://developer.novopayment.com/)
+- Rediseño completo del portal en Drupal 10
+- Integración con API Management Apigee
+- Documentación de APIs con Swagger y OpenAPI
+- Portal multilingüe (Español/Inglés)
+- Implementación de módulos personalizados para gestión de documentación
 
 ### [Fondo Nacional de Garantías](https://www.fng.gov.co/)
 - Frontend desarrollado en NextJS
@@ -100,7 +105,14 @@ Soy una persona de integridad, con actitud de servicio, disciplinado, con habili
 - Desarrollo en Drupal 6 y Xalok (Framework basado en Symfony 2)
 - Portal de noticias líder en el suroccidente colombiano
 
-## Otros Proyectos
+### [Asiste.co](https://asiste.co/)
+- Desarrollo y soporte del software hotelero especializado en Eventos
+- Implementación del software en múltiples países
+- Desarrollo de versión 3 con optimización de consultas y mejoras en la base de datos
+- Implementación de generación de reportes en paralelo
+- Desarrollo de software de mesa de ayuda integrado con otros sistemas
+
+## 📂 Otros Proyectos
 
 ### [Centro Gabo - Especial Gabriel García Márquez](https://centrogabo.org/especiales/gabriel-garcia-marquez/)
 - Desarrollo completo en Drupal
